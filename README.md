@@ -1,9 +1,6 @@
 # -Interactive-3D-Classroom-Simulation-
 3D Computer Graphics project simulating a classroom environment. Implements geometrical transformations, shading models, and user interaction using OpenGL/GLUT.
 
-![Main Screenshot](screenshots/main_view.png)
-*(Note: Upload your "Figure 5" or "Figure 6" image to a folder named 'screenshots' in your repo and rename it to main_view.png, or update this link)*
-
 ##  Project Overview
 This project demonstrates the fundamental concepts of Computer Graphics, including **hierarchical 3D modeling**, **texture mapping**, **Phong lighting**, and **interactive animation**. The simulation creates a realistic academic environment where users can navigate freely, control electrical appliances (fans/lights), and interact with architectural elements.
 
